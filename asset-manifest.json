@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Jov-T/static/css/main.2e7b49e8.chunk.css",
+    "main.js": "/Jov-T/static/js/main.7fecd045.chunk.js",
+    "main.js.map": "/Jov-T/static/js/main.7fecd045.chunk.js.map",
+    "runtime-main.js": "/Jov-T/static/js/runtime-main.5880516e.js",
+    "runtime-main.js.map": "/Jov-T/static/js/runtime-main.5880516e.js.map",
+    "static/js/2.02fec3cf.chunk.js": "/Jov-T/static/js/2.02fec3cf.chunk.js",
+    "static/js/2.02fec3cf.chunk.js.map": "/Jov-T/static/js/2.02fec3cf.chunk.js.map",
+    "index.html": "/Jov-T/index.html",
+    "precache-manifest.2c136b085e1bd7a493d19c1545cff736.js": "/Jov-T/precache-manifest.2c136b085e1bd7a493d19c1545cff736.js",
+    "service-worker.js": "/Jov-T/service-worker.js",
+    "static/css/main.2e7b49e8.chunk.css.map": "/Jov-T/static/css/main.2e7b49e8.chunk.css.map",
+    "static/js/2.02fec3cf.chunk.js.LICENSE.txt": "/Jov-T/static/js/2.02fec3cf.chunk.js.LICENSE.txt",
+    "static/media/Avatar3.png": "/Jov-T/static/media/Avatar3.1251d4d2.png",
+    "static/media/logo.png": "/Jov-T/static/media/logo.d64e4cea.png",
+    "static/media/web-Dice.png": "/Jov-T/static/media/web-Dice.06f4f9aa.png",
+    "static/media/web-Keeper.png": "/Jov-T/static/media/web-Keeper.aa11cd9b.png",
+    "static/media/web-Simon.png": "/Jov-T/static/media/web-Simon.cb3f1a40.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5880516e.js",
+    "static/js/2.02fec3cf.chunk.js",
+    "static/css/main.2e7b49e8.chunk.css",
+    "static/js/main.7fecd045.chunk.js"
+  ]
+}
