@@ -1,27 +1,21 @@
 {
   "files": {
-    "main.css": "/Jov-T/static/css/main.2e7b49e8.chunk.css",
-    "main.js": "/Jov-T/static/js/main.7fecd045.chunk.js",
-    "main.js.map": "/Jov-T/static/js/main.7fecd045.chunk.js.map",
-    "runtime-main.js": "/Jov-T/static/js/runtime-main.5880516e.js",
-    "runtime-main.js.map": "/Jov-T/static/js/runtime-main.5880516e.js.map",
-    "static/js/2.02fec3cf.chunk.js": "/Jov-T/static/js/2.02fec3cf.chunk.js",
-    "static/js/2.02fec3cf.chunk.js.map": "/Jov-T/static/js/2.02fec3cf.chunk.js.map",
-    "index.html": "/Jov-T/index.html",
-    "precache-manifest.2c136b085e1bd7a493d19c1545cff736.js": "/Jov-T/precache-manifest.2c136b085e1bd7a493d19c1545cff736.js",
-    "service-worker.js": "/Jov-T/service-worker.js",
-    "static/css/main.2e7b49e8.chunk.css.map": "/Jov-T/static/css/main.2e7b49e8.chunk.css.map",
-    "static/js/2.02fec3cf.chunk.js.LICENSE.txt": "/Jov-T/static/js/2.02fec3cf.chunk.js.LICENSE.txt",
-    "static/media/Avatar3.png": "/Jov-T/static/media/Avatar3.1251d4d2.png",
-    "static/media/logo.png": "/Jov-T/static/media/logo.d64e4cea.png",
-    "static/media/web-Dice.png": "/Jov-T/static/media/web-Dice.06f4f9aa.png",
-    "static/media/web-Keeper.png": "/Jov-T/static/media/web-Keeper.aa11cd9b.png",
-    "static/media/web-Simon.png": "/Jov-T/static/media/web-Simon.cb3f1a40.png"
+    "main.css": "/AndrewTuquib/Jov-T.git/static/css/main.495e34e4.css",
+    "main.js": "/AndrewTuquib/Jov-T.git/static/js/main.63d100d9.js",
+    "static/media/web-Dice.png": "/AndrewTuquib/Jov-T.git/static/media/web-Dice.2988127ca0a4b1a4f800.png",
+    "static/media/web-Simon.png": "/AndrewTuquib/Jov-T.git/static/media/web-Simon.4aa1e3699bf4e0e85f07.png",
+    "static/media/Avatar3.png": "/AndrewTuquib/Jov-T.git/static/media/Avatar3.874757dd80ec266ea7bb.png",
+    "static/media/nebula.png": "/AndrewTuquib/Jov-T.git/static/media/nebula.7ccd5b28402db28fdfc8.png",
+    "static/media/25Creatives.png": "/AndrewTuquib/Jov-T.git/static/media/25Creatives.22c5624306e4d2dbe5ca.png",
+    "static/media/about-me.png": "/AndrewTuquib/Jov-T.git/static/media/about-me.5b379cc000084f05a32b.png",
+    "static/media/logo.png": "/AndrewTuquib/Jov-T.git/static/media/logo.25e1f9982c240d812561.png",
+    "static/media/web-Keeper.png": "/AndrewTuquib/Jov-T.git/static/media/web-Keeper.ebe6f986daae43666c3b.png",
+    "index.html": "/AndrewTuquib/Jov-T.git/index.html",
+    "main.495e34e4.css.map": "/AndrewTuquib/Jov-T.git/static/css/main.495e34e4.css.map",
+    "main.63d100d9.js.map": "/AndrewTuquib/Jov-T.git/static/js/main.63d100d9.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5880516e.js",
-    "static/js/2.02fec3cf.chunk.js",
-    "static/css/main.2e7b49e8.chunk.css",
-    "static/js/main.7fecd045.chunk.js"
+    "static/css/main.495e34e4.css",
+    "static/js/main.63d100d9.js"
   ]
 }
