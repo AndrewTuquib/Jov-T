@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AndrewTuquib/Jov-T.git/static/css/main.495e34e4.css",
-    "main.js": "/AndrewTuquib/Jov-T.git/static/js/main.63d100d9.js",
-    "static/media/web-Dice.png": "/AndrewTuquib/Jov-T.git/static/media/web-Dice.2988127ca0a4b1a4f800.png",
-    "static/media/web-Simon.png": "/AndrewTuquib/Jov-T.git/static/media/web-Simon.4aa1e3699bf4e0e85f07.png",
-    "static/media/Avatar3.png": "/AndrewTuquib/Jov-T.git/static/media/Avatar3.874757dd80ec266ea7bb.png",
-    "static/media/nebula.png": "/AndrewTuquib/Jov-T.git/static/media/nebula.7ccd5b28402db28fdfc8.png",
-    "static/media/25Creatives.png": "/AndrewTuquib/Jov-T.git/static/media/25Creatives.22c5624306e4d2dbe5ca.png",
-    "static/media/about-me.png": "/AndrewTuquib/Jov-T.git/static/media/about-me.5b379cc000084f05a32b.png",
-    "static/media/logo.png": "/AndrewTuquib/Jov-T.git/static/media/logo.25e1f9982c240d812561.png",
-    "static/media/web-Keeper.png": "/AndrewTuquib/Jov-T.git/static/media/web-Keeper.ebe6f986daae43666c3b.png",
-    "index.html": "/AndrewTuquib/Jov-T.git/index.html",
-    "main.495e34e4.css.map": "/AndrewTuquib/Jov-T.git/static/css/main.495e34e4.css.map",
-    "main.63d100d9.js.map": "/AndrewTuquib/Jov-T.git/static/js/main.63d100d9.js.map"
+    "main.css": "/Jov-T/static/css/main.90ebf0c8.css",
+    "main.js": "/Jov-T/static/js/main.d53b81bd.js",
+    "static/media/web-Dice.png": "/Jov-T/static/media/web-Dice.2988127ca0a4b1a4f800.png",
+    "static/media/web-Simon.png": "/Jov-T/static/media/web-Simon.4aa1e3699bf4e0e85f07.png",
+    "static/media/Avatar3.png": "/Jov-T/static/media/Avatar3.874757dd80ec266ea7bb.png",
+    "static/media/nebula.png": "/Jov-T/static/media/nebula.7ccd5b28402db28fdfc8.png",
+    "static/media/25Creatives.png": "/Jov-T/static/media/25Creatives.22c5624306e4d2dbe5ca.png",
+    "static/media/about-me.png": "/Jov-T/static/media/about-me.5b379cc000084f05a32b.png",
+    "static/media/logo.png": "/Jov-T/static/media/logo.25e1f9982c240d812561.png",
+    "static/media/web-Keeper.png": "/Jov-T/static/media/web-Keeper.ebe6f986daae43666c3b.png",
+    "index.html": "/Jov-T/index.html",
+    "main.90ebf0c8.css.map": "/Jov-T/static/css/main.90ebf0c8.css.map",
+    "main.d53b81bd.js.map": "/Jov-T/static/js/main.d53b81bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.495e34e4.css",
-    "static/js/main.63d100d9.js"
+    "static/css/main.90ebf0c8.css",
+    "static/js/main.d53b81bd.js"
   ]
 }
