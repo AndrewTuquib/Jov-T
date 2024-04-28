@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jov-T/static/css/main.393b91fa.css",
-    "main.js": "/Jov-T/static/js/main.8d616ca4.js",
+    "main.js": "/Jov-T/static/js/main.8ba9d384.js",
     "static/media/id-Venice.png": "/Jov-T/static/media/id-Venice.d1cb9e18a4db4632d341.png",
     "static/media/web-Dice.png": "/Jov-T/static/media/web-Dice.2988127ca0a4b1a4f800.png",
     "static/media/web-drums.png": "/Jov-T/static/media/web-drums.564baa469d50948d1608.png",
@@ -14,10 +14,10 @@
     "static/media/web-Keeper.png": "/Jov-T/static/media/web-Keeper.ebe6f986daae43666c3b.png",
     "index.html": "/Jov-T/index.html",
     "main.393b91fa.css.map": "/Jov-T/static/css/main.393b91fa.css.map",
-    "main.8d616ca4.js.map": "/Jov-T/static/js/main.8d616ca4.js.map"
+    "main.8ba9d384.js.map": "/Jov-T/static/js/main.8ba9d384.js.map"
   },
   "entrypoints": [
     "static/css/main.393b91fa.css",
-    "static/js/main.8d616ca4.js"
+    "static/js/main.8ba9d384.js"
   ]
 }
