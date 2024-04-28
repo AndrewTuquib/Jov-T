@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/Jov-T/static/css/main.5323394f.css",
-    "main.js": "/Jov-T/static/js/main.19c1b9b2.js",
+    "main.css": "/Jov-T/static/css/main.393b91fa.css",
+    "main.js": "/Jov-T/static/js/main.7cfd3f83.js",
+    "static/media/id-Venice.png": "/Jov-T/static/media/id-Venice.d1cb9e18a4db4632d341.png",
     "static/media/web-Dice.png": "/Jov-T/static/media/web-Dice.2988127ca0a4b1a4f800.png",
+    "static/media/web-drums.png": "/Jov-T/static/media/web-drums.564baa469d50948d1608.png",
     "static/media/web-Simon.png": "/Jov-T/static/media/web-Simon.4aa1e3699bf4e0e85f07.png",
     "static/media/Avatar3.png": "/Jov-T/static/media/Avatar3.874757dd80ec266ea7bb.png",
     "static/media/nebula.png": "/Jov-T/static/media/nebula.7ccd5b28402db28fdfc8.png",
@@ -11,11 +13,11 @@
     "static/media/logo.png": "/Jov-T/static/media/logo.25e1f9982c240d812561.png",
     "static/media/web-Keeper.png": "/Jov-T/static/media/web-Keeper.ebe6f986daae43666c3b.png",
     "index.html": "/Jov-T/index.html",
-    "main.5323394f.css.map": "/Jov-T/static/css/main.5323394f.css.map",
-    "main.19c1b9b2.js.map": "/Jov-T/static/js/main.19c1b9b2.js.map"
+    "main.393b91fa.css.map": "/Jov-T/static/css/main.393b91fa.css.map",
+    "main.7cfd3f83.js.map": "/Jov-T/static/js/main.7cfd3f83.js.map"
   },
   "entrypoints": [
-    "static/css/main.5323394f.css",
-    "static/js/main.19c1b9b2.js"
+    "static/css/main.393b91fa.css",
+    "static/js/main.7cfd3f83.js"
   ]
 }
